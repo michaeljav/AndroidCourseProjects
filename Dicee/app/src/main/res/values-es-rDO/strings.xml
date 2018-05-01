@@ -3,4 +3,7 @@
     <string name="app_name">Dicee</string>
     <string name="roll_button_text">Dados</string>
     <string name="descriptions_button">Tirar Dados</string>
+    <string name="right_dice_Description">Right Dice</string>
+    <string name="dice_left_description">dice left</string>
+    <string name="casino_logo_description">Casino Logo</string>
 </resources>
